@@ -1,0 +1,3 @@
+# Egy hajó, amelynek mindkét tárolója töltve van
+GT4500,10,10,10,0
+TORPEDO,ALL  # Mindkét tárolóból lő, mivel ALL módban van

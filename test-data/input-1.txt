@@ -1,0 +1,5 @@
+# Egy hajó, amelynek mindkét tárolója töltve van
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # Első tüzelés, az elsődleges tárolóból kell lőnie
+
+

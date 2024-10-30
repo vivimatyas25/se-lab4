@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500 inicializálva
+SUCCESS  # <- TORPEDO (elsődleges tároló lőtt)
+SUCCESS  # <- TORPEDO (másodlagos tároló lőtt)

@@ -1,0 +1,4 @@
+# Egy hajó, amelynek mindkét tárolója töltve van, váltott tüzeléssel
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # Első tüzelés, az elsődleges tárolóból kell lőnie
+TORPEDO,SINGLE  # Második tüzelés, a másodlagos tárolóból kell lőnie

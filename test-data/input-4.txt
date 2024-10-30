@@ -1,0 +1,3 @@
+# Egy hajó, amelynek csak az elsődleges tárolója van töltve
+GT4500,10,0,10,0
+TORPEDO,ALL  # Csak az elsődleges tárolóból lő, mivel a másodlagos üres
